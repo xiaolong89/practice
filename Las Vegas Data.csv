@@ -1,15 +1,62 @@
 City,zipCodes,Neighborhood
-Las Vegas,"89166, 89143, 89131, 89149, 89130",Centennial
-Las Vegas,"89129, 89134, 89128, 89130",Summerlin
-Las Vegas,"89135, 89117, 89145, 89144",South Summerlin
-Las Vegas,"89102, 89146, 89103, 89147",Spring Valley
-Las Vegas,"89118, 89139, 89141, 89179, 89178, 89113, 89148",Southwest
-Las Vegas,"89109, 89169, 89119, 89123",Southeast
-Las Vegas,"89107, 89106, 89101, 89104",Downtown
-Las Vegas,"89085, 89087, 89084, 89086, 89081, 89031, 89032, 89030",North Las Vegas
-Las Vegas,"89012, 89052, 89183, 89044",Anthem
+Las Vegas,89166,Centennial
+,89143,Centennial
+,89131,Centennial
+,89149,Centennial
+,89130,Centennial
+Las Vegas,89129,Summerlin
+,89134,Summerlin
+,89128,Summerlin
+,89130,Summerlin
+Las Vegas,89135,South Summerlin
+,89117,South Summerlin
+,89145,South Summerlin
+,89144,South Summerlin
+Las Vegas,89102,Spring Valley
+,89146,Spring Valley
+,89103,Spring Valley
+,89147,Spring Valley
+Las Vegas,89118,Southwest
+,89139,Southwest
+,89141,Southwest
+,89179,Southwest
+,89178,Southwest
+,89113,Southwest
+,89148,Southwest
+Las Vegas,89109,Southeast
+,89169,Southeast
+,89119,Southeast
+,89123,Southeast
+Las Vegas,89107,Downtown
+,89106,Downtown
+,89101,Downtown
+,89104,Downtown
+Las Vegas,89085,North Las Vegas
+,89087,North Las Vegas
+,89084,North Las Vegas
+,89086,North Las Vegas
+,89081,North Las Vegas
+,89031,North Las Vegas
+,89032,North Las Vegas
+,89030,North Las Vegas
+Las Vegas,89012,Anthem
+,89052,Anthem
+,89183,Anthem
+,89044,Anthem
 Las Vegas,89005,Boulder City
-Las Vegas,"89014, 89074, 89011, 89015, 89002",Green Valley / Henderson
-Las Vegas,"89122, 89121, 89120",Whitney
-Las Vegas,"89115, 89156, 89110, 89142",Sunrise
-Las Vegas,"89041, 89060, 89048, 89061",Pahrump
+Las Vegas,89014,Green Valley / Henderson
+,89074,Green Valley / Henderson
+,89011,Green Valley / Henderson
+,89015,Green Valley / Henderson
+,89002,Green Valley / Henderson
+Las Vegas,89122,Whitney
+,89121,Whitney
+,89120,Whitney
+Las Vegas,89115,Sunrise
+,89156,Sunrise
+,89110,Sunrise
+,89142,Sunrise
+Las Vegas,89041,Pahrump
+,89060,Pahrump
+,89048,Pahrump
+,89061,Pahrump
